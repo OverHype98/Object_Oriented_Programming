@@ -1,0 +1,4 @@
+﻿  Lab3.1.cpp
+c:\users\andre\documents\visual studio 2017\projects\lab3.1\lab3.1\lab3.1.cpp(25): error C2065: 'nr_students': undeclared identifier
+c:\users\andre\documents\visual studio 2017\projects\lab3.1\lab3.1\lab3.1.cpp(41): error C2065: 'nr_students': undeclared identifier
+c:\users\andre\documents\visual studio 2017\projects\lab3.1\lab3.1\lab3.1.cpp(44): error C2065: 'nr_students': undeclared identifier
