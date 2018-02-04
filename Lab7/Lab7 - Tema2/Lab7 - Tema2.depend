@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513006158 source:c:\users\mihai\desktop\lab6,7,8,9\lab7 - tema2\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<string.h>
+
